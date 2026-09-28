@@ -14,8 +14,8 @@ LATIN = ("U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+2000-206F,U+2074,U+20AC,U
          "U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD")
 CYRILLIC = "U+0301,U+0400-052F,U+1C80-1C88,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F"
 FACES = [  # family, file, weight, style, unicode-range
-    ("Playfair Display", "playfair-display-latin-400i.woff2", "400", "italic", LATIN),
-    ("Playfair Display", "playfair-display-cyrillic-400i.woff2", "400", "italic", "U+0400-045F,U+0490-0491,U+2116"),
+    ("Velvet Serif", "velvetserif-latin-400i.woff2", "400", "italic", LATIN),
+    ("Velvet Serif", "velvetserif-cyrillic-400i.woff2", "400", "italic", "U+0400-045F,U+0490-0491,U+2116"),
 ]
 
 blocks = []

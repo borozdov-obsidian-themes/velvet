@@ -1,3 +1,6 @@
+Velvet Serif is a modified version of Playfair Display Italic: a Latin and Cyrillic subset,
+renamed because the original carries a Reserved Font Name.
+
 Copyright (c) 2010-2012 by Claus Eggers Sørensen (es@forthehearts.net), with Reserved Font Name 'Playfair'.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

@@ -26,8 +26,9 @@ House rules:
 - Colors come from the palette in section 1 of `theme.css`; nothing else holds a color
   literal.
 - One cyan for fills, links and the caret; the main button is white on black. The only embedded
-  font is Playfair Display Italic (headlines and quotes); labels use the platform's mono:
-  `fonts/*.woff2` are written into `theme.css` by `npm run fonts`.
+  font is Velvet Serif Italic, a renamed subset of Playfair Display Italic (headlines and
+  quotes); labels use the platform's mono: `fonts/*.woff2` are written into `theme.css` by
+  `npm run fonts`.
 - The release ships `dist/theme.css` from `npm run build`: the same file without
   comments. The build fails on any lint problem.
 
