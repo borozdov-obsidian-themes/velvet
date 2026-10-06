@@ -35,10 +35,14 @@ an italic serif headline, monospace labels and one cyan spark for what you act o
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Velvet**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Console**. Install Borozdov Console under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Velvet** under Style Settings → Borozdov Console → Variant. The variant brings
+this theme's palette, type and corners; its own layout, and its embedded font if it has
+one, come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/velvet/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Velvet/`, then choose Borozdov Velvet under
 Settings → Appearance → Themes.
@@ -61,5 +65,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: тёмный «Библиотека» — бархатная
 читальня после полуночи, и светлый «Атриум» — та же комната утром. Матовые чёрные
 поверхности, курсивные заголовки с засечками (Velvet Serif), моноширинные подписи и одна
-циановая искра для того, что вы делаете. Устанавливается из каталога: Настройки → Оформление
-→ Темы → Настроить → Borozdov Velvet → Установить и применить.
+циановая искра для того, что вы делаете. В каталоге тема живёт вариантом Borozdov Console: установите Borozdov Console и плагин Style Settings, затем выберите Velvet в Style Settings → Borozdov Console → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
